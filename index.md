@@ -1,17 +1,14 @@
 ## Personal Information
+Name: Bowen Liu<br>
 
-### Name: Bowen Liu
-### Email Adress: 7198883918@edu.k.u-tokyo.ac.jp
-
-## Education
-
+Email Adress: 7198883918@edu.k.u-tokyo.ac.jp
+## Education Experiences
 ### The University of Tokyo, Tokyo, Japan
 PhD student, Computitional Biology and Medical Science                        2021-2024(expected)
 ### Xi’an Jiaotong University, Xi’an, Shaanxi, China
 Master of Science, Control Science and Engineering                             2017-2020
 ### Xi’an Jiaotong University, Xi’an, Shaanxi, China
 Bachelor of Science, Automation                                             2013-2017
-
 ## Research Experiences
 ### Application of Deep Learning in the Prediction of Interaction between Promoters and Enhancers (2021-now)
 1. Use transformer based deep neural network to predict whether specific Promoters and Enhancers have interactions.
