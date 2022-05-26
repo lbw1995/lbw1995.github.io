@@ -35,45 +35,21 @@ Bachelor of Science, Automation                                             2013
 4. Calculate tumor purity using clustering results.
 
 ## Technical and Skills
-
+### Core Domain Expertise
+Machine-learning algorithm; Big data technology; Mathematical modeling; Deep learning.
+### Programming and Software
+c/c++, R, Linux, Python, Hadoop, Spark, Pytorch.
 ## Publications
-
+### Papers
+[1]. Bowen Liu, Xiaofei Yang, Tingjie Wang, Jiadong Lin, Yongyong Kang, Peng Jia, Kai Ye. MEpurity: estimating tumor purity using DNA methylation data. Bioinformatics, 2019, doi.org/10.1093/bioinformatics/btz555.
+[2]. Peng Jia, Xiaofei Yang, Li Guo, Bowen Liu, Jiadong Lin, Hao Liang, Jianyong Sun, Chengsheng Zhang, Kai Ye. MSIsensor-pro: fast, accurate and matched-normal-sample-free detection of microsatellite instability. Genomics, Proteomics & Bioinformatics, 2020, 10.1016/j.gpb.2020.02.001
+### Patent
+1. Kai Ye, Peng Jia, Xiaofei Yang, Bowen Liu, et al. MSIsensor-pro: fast, accurate and matched-normal-sample-free detection of microsatellite instability. 2018.
+### Software Copyright
+Library pooling program computer software V1.0.       Authorization number: 2018SR408908
 ## Selected Honors
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lbw1995/lbw1995.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lbw1995/lbw1995.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Todai Fellowship                                                        (2021-2024)
+Postgraduate academic scholarship 										  (2019-2020)
+Postgraduate academic scholarship 										  (2018-2019)
+Postgraduate student scholarship 											  (2017-2018)
+Siyuan Scholarship 													  (2015-2016)
